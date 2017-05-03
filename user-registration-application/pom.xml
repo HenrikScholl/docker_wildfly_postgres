@@ -4,11 +4,11 @@
 	<artifactId>user-registration-application</artifactId>
 	<packaging>war</packaging>
 
-	<parent>
+<!--	<parent>
 		<groupId>com.ewolff</groupId>
 		<artifactId>user-registration</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-	</parent>
+	</parent> -->
 
 	<dependencies>
 		<dependency>
